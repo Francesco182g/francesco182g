@@ -8,9 +8,6 @@
     </samp>
 </p>
 
-<script>
-  console.log("Hello, World!");
-</script>
 
 
 ### Live long and prosper 🖖
